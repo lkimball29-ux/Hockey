@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Hockey Analytics",
     "section": "",
-    "text": "Testing to see if this shows up"
+    "text": "Where Do Players Score The Most Goals?\n\n\n\n\n\n\n\n\n\nTo understand the spatial distribution of the Florida Panthers’ offense in the 2022-23 season, we first plotted the raw x and y coordinates of every goal scored. This initial density visualization reveals a concentrated ‘hot spot’ of activity central to the dataset. While the shape suggests a high volume of events occurring in a clustered region, the lack of spatial reference points makes it difficult to pinpoint exactly where on the ice these goals originated relative to key defensive zones.\n\n\n\n\n\n\n\n\n\nBy overlaying the goal density data onto a scaled NHL rink diagram, the tactical reality of the Panthers’ offense becomes clear. The visualization confirms that the vast majority of goals are generated from the ‘high-danger’ areas: the low slot and the goal crease directly in front of the net. This heat map highlights the importance of net-front presence, showing that while shots may be taken from the perimeter, actual conversion into goals is heavily weighted toward the area between the faceoff circles.”\n\n\n\n\n\n\n\n\n\nFinally, we analyzed individual player tendencies by plotting total goals against average shot distance to categorize scoring styles. This scatter plot distinguishes the ‘Net Crashers’—players who capitalize on rebounds and deflections near the crease (low average distance)—from the ‘Snipers’ and defensemen who threaten from the perimeter (high average distance). This segmentation provides insight into the roster’s versatility, identifying which players drive the offense from close range versus those who provide spacing from the outside."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "My name is Luke Kimball and I am a student.\nhttps://github.com/lkimball29-ux/Hockey"
   }
 ]
